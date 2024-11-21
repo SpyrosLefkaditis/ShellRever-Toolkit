@@ -1,7 +1,7 @@
 
-# ShellRever Toolkit
+# ShellRever-Toolkit
 
-**ShellRever Toolkit** is a powerful Bash script designed to simplify and automate server management tasks. It's an invaluable asset for system administrators and technical support professionals, offering a suite of features for network diagnostics, service checks, disk space analysis, file permissions fixes, system information retrieval, and user management.
+**ShellRever-Toolkit** is a powerful Bash script designed to simplify and automate server management tasks. It's an invaluable asset for system administrators and technical support professionals, offering a suite of features for network diagnostics, service checks, disk space analysis, file permissions fixes, system information retrieval, and user management.
 
 ## Features
 
@@ -34,19 +34,18 @@
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/shellrever-toolkit.git
+   git clone https://github.com/yourusername/ShellRever-Toolkit.git
    ```
 2. Navigate to the directory:
    ```bash
-   cd shellrever-toolkit
+   cd ShellRever-Toolkit
    ```
 3. Make the script executable:
    ```bash
-   chmod +x shellrever_toolkit.sh
+   chmod +x ShellRever.sh
    ```
 4. Run the script:
    ```bash
-   ./shellrever_toolkit.sh
+   ./ShellRever.sh
    ```
-
 

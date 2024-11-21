@@ -1,8 +1,4 @@
 
-**ShellRever Toolkit** is a versatile Bash script designed to streamline server management tasks for system administrators and technical support professionals. It offers comprehensive features for network diagnostics, service checks, disk space analysis, file permissions fixes, system information retrieval, and user management.
-
----
-
 # ShellRever Toolkit
 
 **ShellRever Toolkit** is a powerful Bash script designed to simplify and automate server management tasks. It's an invaluable asset for system administrators and technical support professionals, offering a suite of features for network diagnostics, service checks, disk space analysis, file permissions fixes, system information retrieval, and user management.

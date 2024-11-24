@@ -34,7 +34,7 @@
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ShellRever-Toolkit.git
+   git clone https://github.com/SpyrosLefkaditis/ShellRever-Toolkit.git
    ```
 2. Navigate to the directory:
    ```bash
